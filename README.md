@@ -1,2 +1,3 @@
 # mydemo
-this is my first repositiry
+this is my first Repositiry
+author - Shyam Dodway
